@@ -1,6 +1,6 @@
 <template>
   <div class="ui center aligned huge header">
-    ☁️ Clever Cloud Demo ☁️
+    ☁️  URIAGE ☁️
     <!--
     -->
     <h4>APP_ID: {{APP_ID}} INSTANCE_ID: {{INSTANCE_ID}} INSTANCE_NUMBER: {{INSTANCE_NUMBER}}</h4>
